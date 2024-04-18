@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Title -->
-<h1 align="center">Gráfica de población usando "icons"
+<h1 align="center">Soy Alejandro Sánchez Peralta
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">
   </h2></h1>
 
 <!-- Quote -->
-<p align="center">Te paso el código, cambiar tu mundo depende solo de ti.
+<p align="center">Te paso mi código, cambiar tu mundo depende solo de ti.
+
+Soy un apasionado de los datos que actualmente trabaja en el INEGI. Trabajo principalmente en la generación de indicadores de victimización en encuestas en unidades económicas.
+Me siento más cómodo usando R en donde me gusta abordar la DataViz.
 
   <!-- Social Network -->
 <h1 align="center">
@@ -54,7 +57,7 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
-En este repositorio se encuentra un ejemplo sobre cómo hacer la gráfica de población usando "icons". Esta gráfica es ilustrativa cuando se presentan datos demográficos.
+
 <!-- Background -->
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
@@ -63,11 +66,8 @@ En este repositorio se encuentra un ejemplo sobre cómo hacer la gráfica de pob
 
 &nbsp;
 
-En la carpeta se incluye la plantilla con la fuente de donde se toman los iconos en "wmpeople1.FTT". Asimismo se muestra la forma en la que se preparan los datos a partir del
-archivo de tabulados de la ENSU -publicada por el INEGI- para que sean utilizables en la gráfica. El código R va comentado hasta cierto punto para que sea más legible.
 
-
-<!-- Technical Skills -->
+<!-- Technical Skills que quisiera dominar -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
