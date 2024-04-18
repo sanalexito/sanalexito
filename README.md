@@ -20,9 +20,6 @@ Here are some ideas to get you started:
        width="30px">
   </h2></h1>
 
-<!-- Quote -->
-<p align="center">Te paso mi código, cambiar tu mundo depende solo de ti.
-
 Soy un apasionado de los datos que actualmente trabaja en el INEGI. Trabajo principalmente en la generación de indicadores de victimización en encuestas en unidades económicas.
 Me siento más cómodo usando R en donde me gusta abordar la DataViz.
 
@@ -97,6 +94,10 @@ Me siento más cómodo usando R en donde me gusta abordar la DataViz.
   
 &nbsp;  
 
+<!-- Quote -->
+<p align="center">*Te paso mi código, cambiar tu mundo depende solo de ti.*
+
+<!-- Numeralia -->
 <H2 align="center"><strong>GitHub Statistics de mis repositorios: 📈
   </strong>
 </H2>
