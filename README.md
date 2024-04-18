@@ -59,7 +59,7 @@ Me siento más cómodo usando R en donde me gusta abordar la DataViz.
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![image](https://github.com/sanalexito/icons_population_graph/assets/65984679/b169e3d6-7c48-4481-a587-e847a57feab8)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
 
 &nbsp;
 
@@ -95,7 +95,7 @@ Me siento más cómodo usando R en donde me gusta abordar la DataViz.
 &nbsp;  
 
 <!-- Quote -->
-<p align="center">*Te paso mi código, cambiar tu mundo depende solo de ti.*
+<p align="center">**Te paso mi código, cambiar tu mundo depende solo de ti.**
 
 <!-- Numeralia -->
 <H2 align="center"><strong>GitHub Statistics de mis repositorios: 📈
