@@ -110,6 +110,8 @@ Aquí comparto algunas herramientas que son útiles en el análisis de datos de 
         
 ![Mi GitHub stats](https://github-readme-stats.vercel.app/api?username=sanalexito&show_icons=true&theme=radical)
 
+
+<!-- Contador de visitas-->
 <H2 align="center"><strong>Visitante: 🧮
    </strong>
  <H2/> 
