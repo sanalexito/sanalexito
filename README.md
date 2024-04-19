@@ -101,7 +101,7 @@ Aquí comparto algunas herramientas que son útiles en el análisis de datos de 
 
 
 <!-- Numeralia -->
-<H2 align="center"><strong>Mis repositorios: 📈
+<H2 align="center"><strong>Github Statistics: 📈
   </strong>
 </H2>
     <p align="center">
