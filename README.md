@@ -26,7 +26,7 @@ Me siento más cómodo usando R en donde me gusta abordar la DataViz, el diseño
 Aquí comparto algunas herramientas que son útiles en el análisis de datos de encuestas del INEGI. Siéntete libre de descargar el material o los ejemplos.
 
 <!-- Quote -->
-<p align="center">Te paso mi código, cambiar al mundo ya depende solo de ti 🤯
+<h2 align="center">Te paso mi código, cambiar al mundo ya depende solo de ti 🤯
 
   <!-- Social Network -->
 <h1 align="center">
