@@ -110,4 +110,4 @@ Aquí comparto algunas herramientas que son útiles en el análisis de datos de 
         
 ![Mi GitHub stats](https://github-readme-stats.vercel.app/api?username=sanalexito&show_icons=true&theme=radical)
 
-<div id="sfc25qkpn2ra8n8ssdj54lkrkpdg4bjcxl5"></div><script type="text/javascript" src="https://counter11.optistats.ovh/private/counter.js?c=25qkpn2ra8n8ssdj54lkrkpdg4bjcxl5&down=async" async></script><br><a href="https://www.contadorvisitasgratis.com">contador de visitas html codigo</a>
+<a href="https://www.contadorvisitasgratis.com" title="contador de visitas html codigo"><img src="https://counter11.optistats.ovh/private/contadorvisitasgratis.php?c=25qkpn2ra8n8ssdj54lkrkpdg4bjcxl5" border="0" title="contador de visitas html codigo" alt="contador de visitas html codigo"></a>
