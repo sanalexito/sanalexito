@@ -95,10 +95,10 @@ Me siento más cómodo usando R en donde me gusta abordar la DataViz, el diseño
 &nbsp;  
 
 <!-- Quote -->
-<p align="center"> _Te paso mi código, cambiar al mundo ya depende solo de ti._
+<p align="center">Te paso mi código, cambiar al mundo ya depende solo de ti 🤯
 
 <!-- Numeralia -->
-<H2 align="center"><strong>GitHub Statistics de mis repositorios: 📈
+<H2 align="center"><strong>Mis repositorios: 📈
   </strong>
 </H2>
     <p align="center">
