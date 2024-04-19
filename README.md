@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 Soy un apasionado de los datos que actualmente trabaja en el INEGI. Trabajo principalmente en la generación de indicadores de victimización en encuestas en unidades económicas.
 Me siento más cómodo usando R en donde me gusta abordar la DataViz, el diseño de dashboards y en general el reporteo de datos.
 
+Aquí comparto algunas herramientas que son útiles en el análisis de datos de encuestas del INEGI. Siéntete libre de descargar el material o los ejemplos.
+
+<!-- Quote -->
+<p align="center">Te paso mi código, cambiar al mundo ya depende solo de ti 🤯
+
   <!-- Social Network -->
 <h1 align="center">
 <a href="https://www.instagram.com/san_alexito/">
@@ -94,8 +99,6 @@ Me siento más cómodo usando R en donde me gusta abordar la DataViz, el diseño
   
 &nbsp;  
 
-<!-- Quote -->
-<p align="center">Te paso mi código, cambiar al mundo ya depende solo de ti 🤯
 
 <!-- Numeralia -->
 <H2 align="center"><strong>Mis repositorios: 📈
