@@ -20,7 +20,7 @@ Here are some ideas to get you started:
        width="30px">
   </h2></h1>
 
-Soy un apasionado de los datos que actualmente trabaja en el INEGI. Trabajo principalmente en la generación de indicadores de victimización en encuestas en unidades económicas.
+Soy un entusiasta de los datos que actualmente trabaja en el INEGI. Trabajo principalmente en la generación de indicadores de victimización en encuestas en unidades económicas.
 Me siento más cómodo usando R en donde me gusta abordar la DataViz, el diseño de dashboards y en general el reporteo de datos.
 
 Aquí comparto algunas herramientas que son útiles en el análisis de datos de encuestas del INEGI. Siéntete libre de descargar el material o los ejemplos.
