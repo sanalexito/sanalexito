@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   </h2></h1>
 
 Soy un apasionado de los datos que actualmente trabaja en el INEGI. Trabajo principalmente en la generación de indicadores de victimización en encuestas en unidades económicas.
-Me siento más cómodo usando R en donde me gusta abordar la DataViz.
+Me siento más cómodo usando R en donde me gusta abordar la DataViz, el diseño de dashboards y en general el reporteo de datos.
 
   <!-- Social Network -->
 <h1 align="center">
@@ -95,7 +95,7 @@ Me siento más cómodo usando R en donde me gusta abordar la DataViz.
 &nbsp;  
 
 <!-- Quote -->
-<p align="center">**Te paso mi código, cambiar tu mundo depende solo de ti.**
+<p align="center"> _Te paso mi código, cambiar al mundo ya depende solo de ti._
 
 <!-- Numeralia -->
 <H2 align="center"><strong>GitHub Statistics de mis repositorios: 📈
