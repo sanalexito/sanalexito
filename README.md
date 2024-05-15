@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 <h1 align="center">Soy Alejandro Sánchez Peralta
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">
-  </h2></h1>
+  
 
-Soy un entusiasta de los datos que actualmente trabaja en el INEGI. Trabajo principalmente en la generación de indicadores de victimización en encuestas en unidades económicas.
+  <img src="https://www.bing.com/th/id/OGC.69974027d3722aa44930c9c43bac7e40?pid=1.7&rurl=https%3a%2f%2fblogger.googleusercontent.com%2fimg%2fb%2fR29vZ2xl%2fAVvXsEjpkVGGIxucTijeWOBM1sk_TsqU716Bw4UfJpbc8Xog3P6u-U_bTFpzw55Un5SQBn_bn2nwgd09sv3HJdOOgQp5FQKtNlfy-ciFZjONKv_eu0M2wnH12cAO5EXDe584yX8fouvjuPzsq1-rMrB16KAMf-ly3U7z38GxdTQfBzpzo-ri6mzOunXZpvLk%2fs700%2fprogramacion_gamer_001.gif&ehk=8gsoivqjPDORVSUJjk57SmJ5PuV%2bvXuxM9XiE7pK7B8%3d" 
+       align="center">
+  </h1>
+
+Soy un entusiasta de los datos que actualmente labora en el INEGI. Trabajo principalmente en la generación de indicadores de victimización en encuestas en unidades económicas.
 Me siento más cómodo usando R en donde me gusta abordar la DataViz, el diseño de dashboards y en general el reporteo de datos.
 
 Aquí comparto algunas herramientas que son útiles en el análisis de datos de encuestas del INEGI. Siéntete libre de descargar el material o los ejemplos.
