@@ -24,6 +24,7 @@ Here are some ideas to get you started:
        align="center">
   </h1>
 
+<h2>Sobre mí</h2>
 Soy un entusiasta de los datos que actualmente labora en el INEGI. Trabajo principalmente en la generación de indicadores de victimización en encuestas en unidades económicas.
 Me siento más cómodo usando R en donde me gusta abordar la DataViz, el diseño de dashboards y en general el reporteo de datos.
 
