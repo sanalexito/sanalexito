@@ -20,7 +20,7 @@ Here are some ideas to get you started:
        width="30px">
   
 
-  <img src="https://www.bing.com/th/id/OGC.69974027d3722aa44930c9c43bac7e40?pid=1.7&rurl=https%3a%2f%2fblogger.googleusercontent.com%2fimg%2fb%2fR29vZ2xl%2fAVvXsEjpkVGGIxucTijeWOBM1sk_TsqU716Bw4UfJpbc8Xog3P6u-U_bTFpzw55Un5SQBn_bn2nwgd09sv3HJdOOgQp5FQKtNlfy-ciFZjONKv_eu0M2wnH12cAO5EXDe584yX8fouvjuPzsq1-rMrB16KAMf-ly3U7z38GxdTQfBzpzo-ri6mzOunXZpvLk%2fs700%2fprogramacion_gamer_001.gif&ehk=8gsoivqjPDORVSUJjk57SmJ5PuV%2bvXuxM9XiE7pK7B8%3d" 
+  <img src="https://th.bing.com/th/id/R.fc42c65da98d06f1f23f682eee88c8db?rik=t2V%2bAOZ9S1OWqQ&riu=http%3a%2f%2fwww.bizkloud.com%2fassets%2fimg%2fbanner%2fcustom-software.jpg&ehk=GArTvJONpWjRuif1owWxRVGzS9U0Ua97aT6WzUOwuGk%3d&risl=&pid=ImgRaw&r=0" 
        align="center">
   </h1>
 
